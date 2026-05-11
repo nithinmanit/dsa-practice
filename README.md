@@ -4,6 +4,7 @@ Daily Data Structures & Algorithms practice repository.
 
 ## Topics Covered
 - Arrays
+- Hashing
 
 ## Platforms
 - LeetCode
